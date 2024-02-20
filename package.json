@@ -1,0 +1,18 @@
+{
+  "name": "myshopbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon",
+    "start": "node your-script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "4.1",
+    "mongoose": "^8.1.3",
+    "nodemon": "^3.0.2"
+  }
+}
